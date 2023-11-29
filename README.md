@@ -1,7 +1,7 @@
 <h2 align="center"> TECH STACK </h2>
 <div>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrd91&layout=compact&theme=dark" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrd91&layout=compact&theme=tokyonight" alt="Top Languages" />
     </p>
     <h3 align="center">• Languages •</h3>
     <p align="center">
