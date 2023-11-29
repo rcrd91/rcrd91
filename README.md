@@ -136,5 +136,5 @@
 <br>
 <h2 align="center">CONTACT</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/ricardogomez91/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ricardogomezcosta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
