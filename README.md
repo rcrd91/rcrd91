@@ -44,7 +44,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/rcrd91/EntornoCliente" style="text-decoration: none;">Web Development: Client Environment</a>
+                <a href="https://github.com/rcrd91/EntornoCliente" >Web Development: Client Environment</a>
              </td>
             <td align="left" style="color: red;"> 
                 • Programming logic <br> 
