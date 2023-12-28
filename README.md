@@ -81,23 +81,6 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/rcrd91/BasesDeDatos">Web Development: Databases</a>
-            </td>
-            <td align="left">
-                • Relational model <br> 
-                • ER model <br> 
-                • Database normalization <br> 
-                • Queries <br> 
-                • Subqueries <br> 
-                • Tables <br>
-                • Procedures and Functions
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/rcrd91/InterfacesWeb">Web Development: Interfaces</a>
              </td>
             <td align="left">
@@ -118,7 +101,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/rcrd91/POO">Mobile Development: Client Environment</a>
+                <a href="https://github.com/rcrd91/POO">OOP</a>
             </td>
             <td align="left">
                 • Programming logic <br> 
@@ -134,6 +117,23 @@
             <td>
                 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/><br>
                 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/rcrd91/BasesDeDatos">Databases</a>
+            </td>
+            <td align="left">
+                • Relational model <br> 
+                • ER model <br> 
+                • Database normalization <br> 
+                • Queries <br> 
+                • Subqueries <br> 
+                • Tables <br>
+                • Procedures and Functions
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br>
             </td>
         </tr>
     </table>
