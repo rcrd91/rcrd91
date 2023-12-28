@@ -101,7 +101,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/rcrd91/POO">OOP</a>
+                <a href="https://github.com/rcrd91/POO">Object Oriented Programming</a>
             </td>
             <td align="left">
                 • Programming logic <br> 
